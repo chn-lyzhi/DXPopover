@@ -92,6 +92,7 @@ static CGFloat randomFloatBetweenLowAndHigh(CGFloat low, CGFloat high) {
 
 - (void)resetPopover {
     self.popover = [DXPopover new];
+    self.popover.maskType = DXPopoverMaskTypeBeneathBlack;
     _popoverWidth = 280.0;
 }
 

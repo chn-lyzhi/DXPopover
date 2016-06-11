@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A5C630BEAF976AD6D3403D984F28248B2E0DCDA5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B5BE23CE9B18401A4383475148C73EDD05727027" : 0,
+    "A5C630BEAF976AD6D3403D984F28248B2E0DCDA5" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D74461E9-043E-45AF-8C1F-5DC32B9093DE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B5BE23CE9B18401A4383475148C73EDD05727027" : "",
+    "A5C630BEAF976AD6D3403D984F28248B2E0DCDA5" : "DXPopover\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DXPopoverDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/DXPopoverDemo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/chn-lyzhi\/DXPopover.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A5C630BEAF976AD6D3403D984F28248B2E0DCDA5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "code.csdn.net:everfire130\/ydpack.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B5BE23CE9B18401A4383475148C73EDD05727027"
+    }
+  ]
+}
